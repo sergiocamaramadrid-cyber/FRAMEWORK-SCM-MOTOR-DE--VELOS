@@ -1,0 +1,17 @@
+# Generated results – keep the directory but ignore contents
+results/little_things_predictions/*
+!results/little_things_predictions/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
