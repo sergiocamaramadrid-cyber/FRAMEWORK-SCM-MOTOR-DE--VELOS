@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebooks (not to be committed)
+SCM_CIERRE_DEFINITIVO_INFORME_FINAL.ipynb
+
+# Generated outputs
+reports/
+comparisons/
+diagnostics/
+
+# OS
+.DS_Store
+Thumbs.db
